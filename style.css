@@ -1,0 +1,35 @@
+*{padding: 0; margin: 0; box-sizing: border-box; scroll-behavior: smooth;}
+
+
+body{
+    background-color: #2C2C2C;
+}
+header{
+    background-color: #555555;
+    color: white;
+}
+
+main{
+    color: white;
+}
+
+#menu{
+    background-color: #555555;
+    justify-content: center;
+    display: flex;
+    
+}
+
+
+a{
+   
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    display: flex
+}
+
